@@ -3,7 +3,7 @@ Contributors: sapthesh
 Tags: contact form 7, recaptcha, spam, security
 Requires at least: 5.0
 Tested up to: 6.5
-Stable tag: 2.0.0
+Stable tag: 2.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,8 @@ No. This plugin is designed to handle the integration by itself. You should disa
 You can get your reCAPTCHA API keys from the [Google reCAPTCHA admin console](https://www.google.com/recaptcha/admin/).
 
 == Changelog ==
+= 2.1.0 =
+* IMPROVED: Minor Conditional sequence added.
 
 = 2.0.0 =
 * ADDED: Settings page to choose between reCAPTCHA v2 and v3.
