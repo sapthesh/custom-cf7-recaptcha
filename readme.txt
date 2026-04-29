@@ -3,7 +3,7 @@ Contributors: sapthesh
 Tags: contact form 7, recaptcha, spam, security
 Requires at least: 5.0
 Tested up to: 6.5.2
-Stable tag: 2.2.0
+Stable tag: 2.2.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
