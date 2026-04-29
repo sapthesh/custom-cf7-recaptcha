@@ -1,6 +1,6 @@
 # Custom CF7 reCAPTCHA
 
-Integrates Google reCAPTCHA v2 or v3 with Contact Form 7, replacing the need for third-party reCAPTCHA plugins.
+Integrates Google reCAPTCHA v2 or v3 with Contact Form 7, replacing the need for third-party reCAPTCHA plugins. 
 
 <a href="https://hits.sh/github.com/sapthesh/custom-cf7-recaptcha/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/custom-cf7-recaptcha.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>
 
