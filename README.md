@@ -1,4 +1,4 @@
-# Custom CF7 reCAPTCHA
+# Custom CF7 reCAPTCHA 
 
 Integrates Google reCAPTCHA v2 or v3 with Contact Form 7, replacing the need for third-party reCAPTCHA plugins. 
 
